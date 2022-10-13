@@ -1,0 +1,13 @@
+{
+  "miniprogramRoot": "./",
+  "projectname": "canDogEat",
+  "description": "狗狗是否能吃这个食物",
+  "appid": "touristappid",
+  "setting": {
+    "urlCheck": true,
+    "es6": false,
+    "postcss": false,
+    "minified": false
+  },
+  "compileType": "miniprogram"
+}
